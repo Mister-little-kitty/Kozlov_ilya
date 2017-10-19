@@ -1,0 +1,74 @@
+ {
+    font-family: 'PT Sans Narrow', sans-serif;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 700;
+  }
+  
+  body
+  p {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #000000;
+  }
+  
+  li {
+    list-style: none;
+  }
+  
+  .container {
+    width: 960px;
+    padding: 0 10px;
+    margin: 0 auto;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+   .col {
+    float: left;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0 10px;
+  }
+  
+  .row {
+    margin-left: -10px;
+    margin-right: -10px;
+  }
+  
+ 
+  
+  main {
+    display: block; 
+    padding: 59px 0 47px 1px;
+  }
+  
+  
+  /* Хэдер */
+  header {
+    background-color: #000000;
+    font-size: 0px;
+  }
+  
+  nav {
+    float: left;
+    width: 83.33%;
+  }
+  
+  ul.menu {
+    list-style: none;
+    width: 790px;
+    margin: 0;
+    padding: 0;
+  }
+  
+  ul.menu li {
+    float: left;
+  }
+  
+  
